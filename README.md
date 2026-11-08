@@ -8,11 +8,13 @@
 
 <div align="center">
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Unified-SaaS-Data-Protection-Platform/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Unified-SaaS-Data-Protection-Platform/graphs/commit-activity)
 [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Unified-SaaS-Data-Protection-Platform?style=social)](https://github.com/ishandutta2007/Awesome-Unified-SaaS-Data-Protection-Platform/stargazers)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 </div>
 
@@ -34,6 +36,8 @@
   - [🛠️ Deep-Dive Open-Source Tools](#-deep-dive-open-source-tools-)
 - [⚖️ Feature Comparison at a Glance](#-feature-comparison-at-a-glance-)
 - [🤝 Contributing](#-contributing-)
+- [💖 Support & Sponsorship](#-support--sponsorship-)
+- [⭐ Star History](#-star-history-)
 - [📄 License](#-license-)
 
 ---
@@ -254,6 +258,24 @@ Contributions are enthusiastically welcomed! Help keep this curated resource com
    - Precise pricing model or license details
    - Architectural strengths and workload specialties
 4. **Submit** a pull request with a concise overview of changes.
+
+---
+
+## 💖 Support & Sponsorship ☕
+
+If this curated repository saved you time, helped architect your disaster recovery strategy, or introduced you to new backup tools, please consider supporting the project!
+
+- ⭐ **Star this repository** to improve visibility for the cloud security and backup community.
+- 🍴 **Fork and contribute** new open-source backup engines or platform updates.
+- 📢 **Share with your team** and network on LinkedIn, X/Twitter, or Reddit.
+- ☕ **Buy a coffee & sponsor ongoing maintenance:**  
+  [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-%E2%99%A5-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/ishandutta2007)  
+  Visit the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007) to help support continuous curation, benchmarks, and community guides. Thank you for your support! 🙌
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Unified-SaaS-Data-Protection-Platform&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Unified-SaaS-Data-Protection-Platform&type=date&legend=top-left)
 
 ---
 
