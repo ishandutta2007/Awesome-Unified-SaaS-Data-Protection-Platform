@@ -13,7 +13,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Unified-SaaS-Data-Protection-Platform/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Unified-SaaS-Data-Protection-Platform/graphs/commit-activity)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Unified-SaaS-Data-Protection-Platform?style=social)](https://github.com/ishandutta2007/Awesome-Unified-SaaS-Data-Protection-Platform/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Unified-SaaS-Data-Protection-Platform?style=social)](https://github.com/ishandutta2007/Awesome-Unified-SaaS-Data-Protection-Platform/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 </div>
@@ -32,7 +32,7 @@
   - [🏢 Enterprise SaaS Matrix (Ranked by Scale / Valuation)](#-enterprise-saas-matrix-ranked-by-scale--valuation-)
   - [🔍 Detailed SaaS Platform Profiles](#-detailed-saas-platform-profiles-)
 - [🟩 Open-Source Software](#-open-source-software-)
-  - [⭐ Open-Source Leaderboard (Sorted by GitHub Stars)](#-open-source-leaderboard-sorted-by-github-stars-)
+  - [⭐ Open-Source Leaderboard (Sorted by GitHub_Stars)](#-open-source-leaderboard-sorted-by-github-stars-)
   - [🛠️ Deep-Dive Open-Source Tools](#-deep-dive-open-source-tools-)
 - [⚖️ Feature Comparison at a Glance](#-feature-comparison-at-a-glance-)
 - [🤝 Contributing](#-contributing-)
@@ -137,24 +137,24 @@ Below is the comparative breakdown of commercial Unified SaaS Data Protection pl
 
 Self-hosted, community-driven backup software and data protection solutions. While direct SaaS application connectors (e.g. M365, Salesforce APIs) are emerging, these battle-tested open-source engines provide cryptographic immutability, zero-knowledge encryption, and local-to-cloud deduplication.
 
-### ⭐ Open-Source Leaderboard (Sorted by GitHub Stars) 🏆
+### ⭐ Open-Source Leaderboard (Sorted by GitHub_Stars) 🏆
 
-The leaderboard below is strictly sorted in **descending order by GitHub star count**. Each badge is rendered in `style=social` and links directly to the project's stargazers page.
+The leaderboard below is strictly sorted in **descending order by GitHub Stars_Count**. Each badge is rendered in `style=social` and links directly to the project's stargazers page.
 
-| Project Name 📦 | GitHub Stars ⭐ | Primary Stack 💻 | License 📜 | SaaS / Cloud Workload Capabilities ☁️ | Best For 💡 |
+| Project Name 📦 | GitHub_Stars ⭐ | Primary Stack 💻 | License 📜 | SaaS / Cloud Workload Capabilities ☁️ | Best For 💡 |
 |:---|:---|:---|:---|:---|:---|
-| [**Rclone**](https://github.com/rclone/rclone) | [![GitHub stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | Go | MIT | 70+ Cloud & SaaS Storage Backends (Google Drive, OneDrive, S3, Dropbox) | Universal cloud sync & multi-backend data piping |
-| [**Restic**](https://github.com/restic/restic) | [![GitHub stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) | Go | BSD-2-Clause | Cloud Storage targets (S3, B2, Azure, GCS, SFTP) | Scriptable, rock-solid zero-knowledge CLI backup |
-| [**Duplicati**](https://github.com/duplicati/duplicati) | [![GitHub stars](https://img.shields.io/github/stars/duplicati/duplicati?style=social&color=white)](https://github.com/duplicati/duplicati/stargazers) | C# / .NET | MIT / LGPL | Web UI + 20+ Cloud destinations (Google Drive, OneDrive, S3) | Desktop & home-server automated cloud backups |
-| [**Kopia**](https://github.com/kopia/kopia) | [![GitHub stars](https://img.shields.io/github/stars/kopia/kopia?style=social&color=white)](https://github.com/kopia/kopia/stargazers) | Go | Apache-2.0 | S3, Azure Blob, GCS, Backblaze B2, WebDAV, SFTP | Fast snapshotting with desktop/web UI & policies |
-| [**BorgBackup**](https://github.com/borgbackup/borg) | [![GitHub stars](https://img.shields.io/github/stars/borgbackup/borg?style=social&color=white)](https://github.com/borgbackup/borg/stargazers) | Python / C | BSD-3-Clause | Authenticated SSH, Cloud storage via rclone/SSHFS | Legendary chunk-level deduplication for Linux servers |
-| [**Velero**](https://github.com/velero-io/velero) | [![GitHub stars](https://img.shields.io/github/stars/velero-io/velero?style=social&color=white)](https://github.com/velero-io/velero/stargazers) | Go | Apache-2.0 | Kubernetes Cluster State, Persistent Volumes, Cloud Provider Snapshots | De-facto Kubernetes backup, migration & disaster recovery |
-| [**Backrest**](https://github.com/garethgeorge/backrest) | [![GitHub stars](https://img.shields.io/github/stars/garethgeorge/backrest?style=social&color=white)](https://github.com/garethgeorge/backrest/stargazers) | Go / TypeScript | GPL-3.0 | Modern WebUI orchestrator for Restic with cloud repository sync | Visual multi-machine Restic management & monitoring |
-| [**Bup**](https://github.com/bup/bup) | [![GitHub stars](https://img.shields.io/github/stars/bup/bup?style=social&color=white)](https://github.com/bup/bup/stargazers) | Python / C | LGPL-2.0 | Git packfile format backup for massive datasets | Petabyte-scale incremental disk image & file backups |
-| [**Borgmatic**](https://github.com/borgmatic-collective/borgmatic) | [![GitHub stars](https://img.shields.io/github/stars/borgmatic-collective/borgmatic?style=social&color=white)](https://github.com/borgmatic-collective/borgmatic/stargazers) | Python | GPL-3.0 | Declarative PostgreSQL, MySQL, SQLite, and filesystem hooks | Automated declarative BorgBackup pipelines & monitoring |
-| [**Plakar**](https://github.com/PlakarKorp/plakar) | [![GitHub stars](https://img.shields.io/github/stars/PlakarKorp/plakar?style=social&color=white)](https://github.com/PlakarKorp/plakar/stargazers) | Go | Apache-2.0 | Direct SaaS Connectors (Notion), S3, SFTP, MySQL, PostgreSQL | Unified open backup with single-pass compress-dedup-encrypt |
-| [**Autorestic**](https://github.com/cupcakearmy/autorestic) | [![GitHub stars](https://img.shields.io/github/stars/cupcakearmy/autorestic?style=social&color=white)](https://github.com/cupcakearmy/autorestic/stargazers) | Go | Apache-2.0 | Multi-backend Restic orchestration via YAML configs | Simple declarative CLI automation for Restic repositories |
-| [**Bareos**](https://github.com/bareos/bareos) | [![GitHub stars](https://img.shields.io/github/stars/bareos/bareos?style=social&color=white)](https://github.com/bareos/bareos/stargazers) | C++ / Python | AGPL-3.0 | Enterprise clients, Cloud storage backends, Tape, Ceph | Enterprise datacenter backup (Bacula fork) with WebUI |
+| [**Rclone**](https://github.com/rclone/rclone) | [![GitHub_Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | Go | MIT | 70+ Cloud & SaaS Storage Backends (Google Drive, OneDrive, S3, Dropbox) | Universal cloud sync & multi-backend data piping |
+| [**Restic**](https://github.com/restic/restic) | [![GitHub_Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) | Go | BSD-2-Clause | Cloud Storage targets (S3, B2, Azure, GCS, SFTP) | Scriptable, rock-solid zero-knowledge CLI backup |
+| [**Duplicati**](https://github.com/duplicati/duplicati) | [![GitHub_Stars](https://img.shields.io/github/stars/duplicati/duplicati?style=social&color=white)](https://github.com/duplicati/duplicati/stargazers) | C# / .NET | MIT / LGPL | Web UI + 20+ Cloud destinations (Google Drive, OneDrive, S3) | Desktop & home-server automated cloud backups |
+| [**Kopia**](https://github.com/kopia/kopia) | [![GitHub_Stars](https://img.shields.io/github/stars/kopia/kopia?style=social&color=white)](https://github.com/kopia/kopia/stargazers) | Go | Apache-2.0 | S3, Azure Blob, GCS, Backblaze B2, WebDAV, SFTP | Fast snapshotting with desktop/web UI & policies |
+| [**BorgBackup**](https://github.com/borgbackup/borg) | [![GitHub_Stars](https://img.shields.io/github/stars/borgbackup/borg?style=social&color=white)](https://github.com/borgbackup/borg/stargazers) | Python / C | BSD-3-Clause | Authenticated SSH, Cloud storage via rclone/SSHFS | Legendary chunk-level deduplication for Linux servers |
+| [**Velero**](https://github.com/velero-io/velero) | [![GitHub_Stars](https://img.shields.io/github/stars/velero-io/velero?style=social&color=white)](https://github.com/velero-io/velero/stargazers) | Go | Apache-2.0 | Kubernetes Cluster State, Persistent Volumes, Cloud Provider Snapshots | De-facto Kubernetes backup, migration & disaster recovery |
+| [**Backrest**](https://github.com/garethgeorge/backrest) | [![GitHub_Stars](https://img.shields.io/github/stars/garethgeorge/backrest?style=social&color=white)](https://github.com/garethgeorge/backrest/stargazers) | Go / TypeScript | GPL-3.0 | Modern WebUI orchestrator for Restic with cloud repository sync | Visual multi-machine Restic management & monitoring |
+| [**Bup**](https://github.com/bup/bup) | [![GitHub_Stars](https://img.shields.io/github/stars/bup/bup?style=social&color=white)](https://github.com/bup/bup/stargazers) | Python / C | LGPL-2.0 | Git packfile format backup for massive datasets | Petabyte-scale incremental disk image & file backups |
+| [**Borgmatic**](https://github.com/borgmatic-collective/borgmatic) | [![GitHub_Stars](https://img.shields.io/github/stars/borgmatic-collective/borgmatic?style=social&color=white)](https://github.com/borgmatic-collective/borgmatic/stargazers) | Python | GPL-3.0 | Declarative PostgreSQL, MySQL, SQLite, and filesystem hooks | Automated declarative BorgBackup pipelines & monitoring |
+| [**Plakar**](https://github.com/PlakarKorp/plakar) | [![GitHub_Stars](https://img.shields.io/github/stars/PlakarKorp/plakar?style=social&color=white)](https://github.com/PlakarKorp/plakar/stargazers) | Go | Apache-2.0 | Direct SaaS Connectors (Notion), S3, SFTP, MySQL, PostgreSQL | Unified open backup with single-pass compress-dedup-encrypt |
+| [**Autorestic**](https://github.com/cupcakearmy/autorestic) | [![GitHub_Stars](https://img.shields.io/github/stars/cupcakearmy/autorestic?style=social&color=white)](https://github.com/cupcakearmy/autorestic/stargazers) | Go | Apache-2.0 | Multi-backend Restic orchestration via YAML configs | Simple declarative CLI automation for Restic repositories |
+| [**Bareos**](https://github.com/bareos/bareos) | [![GitHub_Stars](https://img.shields.io/github/stars/bareos/bareos?style=social&color=white)](https://github.com/bareos/bareos/stargazers) | C++ / Python | AGPL-3.0 | Enterprise clients, Cloud storage backends, Tape, Ceph | Enterprise datacenter backup (Bacula fork) with WebUI |
 
 ---
 
